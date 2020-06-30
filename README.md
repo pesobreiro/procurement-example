@@ -1,6 +1,4 @@
 # Procurement Living Application
-## Exemplo aulas
-
 ## About
 This is an official Living Application example for Bonita 7.
 It is build using Bonita 7.9.3 and is compatible with any future releases of Bonita 7.
